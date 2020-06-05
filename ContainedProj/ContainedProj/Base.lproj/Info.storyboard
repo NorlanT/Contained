@@ -22,7 +22,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemYellowColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="Jqi-kn-yVK" firstAttribute="centerY" secondItem="OnG-KF-Y30" secondAttribute="centerY" id="QrC-pt-Mvg"/>
                             <constraint firstItem="Jqi-kn-yVK" firstAttribute="centerX" secondItem="OnG-KF-Y30" secondAttribute="centerX" id="UY6-1O-8xU"/>
@@ -31,6 +31,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="AF4-KC-lIi">
                         <barButtonItem key="rightBarButtonItem" title="Next" id="68d-xh-S7n">
+                            <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                             <connections>
                                 <segue destination="Ra3-Kx-RTK" kind="show" id="Onx-wo-hCm"/>
                             </connections>
@@ -58,7 +59,7 @@ the crab</string>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemOrangeColor" red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="23z-25-6UE" firstAttribute="centerX" secondItem="yEp-1O-XQX" secondAttribute="centerX" id="Jxd-32-Fd1"/>
                             <constraint firstItem="23z-25-6UE" firstAttribute="centerY" secondItem="yEp-1O-XQX" secondAttribute="centerY" id="iZI-E4-Pee"/>
@@ -67,6 +68,7 @@ the crab</string>
                     </view>
                     <navigationItem key="navigationItem" id="zhI-Gs-Os5">
                         <barButtonItem key="rightBarButtonItem" title="Next" id="D1a-XA-UBT">
+                            <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                             <connections>
                                 <segue destination="OKb-pd-6KD" kind="show" id="AkA-tQ-6ht"/>
                             </connections>
@@ -92,7 +94,7 @@ the crab</string>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.40221620983411854" blue="0.17024154126843816" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="oIw-ye-Gae" firstAttribute="centerY" secondItem="Ma8-gH-2xZ" secondAttribute="centerY" id="FDg-Wu-oWs"/>
                             <constraint firstItem="oIw-ye-Gae" firstAttribute="centerX" secondItem="Ma8-gH-2xZ" secondAttribute="centerX" id="ShA-KM-LD8"/>
@@ -101,6 +103,7 @@ the crab</string>
                     </view>
                     <navigationItem key="navigationItem" id="Q60-Ko-ZTb">
                         <barButtonItem key="rightBarButtonItem" title="Done" id="UNu-Gl-1CM">
+                            <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                             <connections>
                                 <segue destination="imN-WB-D7L" kind="unwind" unwindAction="unwindToInfoVC:" id="Moz-63-7vg"/>
                             </connections>
@@ -121,6 +124,7 @@ the crab</string>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Vgq-0C-5H9">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" cocoaTouchSystemColor="darkTextColor"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>

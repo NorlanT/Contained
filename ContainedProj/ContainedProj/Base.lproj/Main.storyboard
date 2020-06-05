@@ -63,7 +63,7 @@
                                 </subviews>
                             </stackView>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemPinkColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="UrG-XA-wWr" firstAttribute="centerX" secondItem="wnT-hO-Nqw" secondAttribute="centerX" id="AeC-yY-rPu"/>
                             <constraint firstItem="UrG-XA-wWr" firstAttribute="centerY" secondItem="wnT-hO-Nqw" secondAttribute="centerY" id="lrR-g2-cgt"/>
@@ -88,7 +88,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="813"/>
                             </skView>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="Vyx-m1-sE5" firstAttribute="bottom" secondItem="qWS-bB-DOv" secondAttribute="bottom" id="5cT-5z-oOB"/>
                             <constraint firstItem="Vyx-m1-sE5" firstAttribute="trailing" secondItem="qWS-bB-DOv" secondAttribute="trailing" id="96a-sr-Gbb"/>
